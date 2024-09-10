@@ -17,6 +17,14 @@ h1{
     font-style: normal;
 }
 
+h2{
+    color: rgb(182, 55, 55);
+    text-align: center;
+    font-size: 14px;
+    font-weight: 100;
+    font-style: normal;
+}
+
 p{
     color: white;
     text-align: left;
@@ -27,13 +35,8 @@ p{
 
 a{
     text-decoration: none;
-    color: white;
+    color: rgb(138, 143, 152);
 }
 
-h2{
-    color: rgb(182, 55, 55);
-    text-align: center;
-    font-size: 14px;
-    font-weight: 100;
-    font-style: normal;
-}
+::selection{
+    color: ;
