@@ -10,21 +10,21 @@ body{
 }
 
 .Pin img {
-	margin: center;
-	height: 24px;
-	width: 24px;
-    margin-left: 685px;
-	align-items: center;
+    margin: center;
+    height: 24px;
+    width: 24px;
+    margin-left: center;
+    align-items: center;
 }
 
 .Sup img {
     margin: center;
-	height: 350px;
-	width: 350px;
+    height: 350px;
+    width: 350px;
     border-radius: 3%;
-	border:3px solid;
-    margin-left: 550px;
-	align-items: center;
+    border:3px solid;
+    margin-left: center;
+    align-items: center;
 }
 
 h1{
