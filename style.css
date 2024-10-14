@@ -5,8 +5,6 @@ body{
     background-color: black;
     scroll-behavior: smooth;
     line-height: 13px;
-    text-align: center;
-    align-items: center;
 }
 
 .Pin img {
