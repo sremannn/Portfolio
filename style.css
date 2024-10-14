@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+body{
+    background-color: black;
+    scroll-behavior: smooth;
+    line-height: 13px;
+}
+
+.Pin img {
+	margin: center;
+	height: 24px;
+	width: 24px;
+    margin-left: 685px;
+	align-items: center;
+}
+
+.Sup img {
+    margin: center;
+	height: 350px;
+	width: 350px;
+    border-radius: 3%;
+	border:3px solid;
+    margin-left: 550px;
+	align-items: center;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-family: "Major Mono Display", monospace;
+    font-style: normal;
+    font-weight: 100;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    font-family: "JetBrains Mono", monospace;
+    font-style: normal;
+    font-weight: 100;
+}
+
+a{
+    color: white;
+    font-family: "JetBrains Mono", monospace;
+    font-style: normal;
+    font-weight: 100;
+}
+
+::selection {
+    color: #00FFA3;
+    background: #042620;
+}
