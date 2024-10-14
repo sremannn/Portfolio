@@ -29,7 +29,7 @@ body{
 
 h1{
     color: white;
-    text-align: center;
+    text-align: left;
     font-size: 18px;
     font-family: "Major Mono Display", monospace;
     font-style: normal;
@@ -38,7 +38,7 @@ h1{
 
 p{
     color: white;
-    text-align: center;
+    text-align: left;
     font-size: 16px;
     font-family: "JetBrains Mono", monospace;
     font-style: normal;
