@@ -5,6 +5,8 @@ body{
     background-color: black;
     scroll-behavior: smooth;
     line-height: 13px;
+    text-align: center;
+    align-items: center;
 }
 
 .Pin img {
@@ -45,6 +47,7 @@ p{
 
 a{
     color: white;
+    text-decoration: none;
     font-family: "JetBrains Mono", monospace;
     font-style: normal;
     font-weight: 100;
